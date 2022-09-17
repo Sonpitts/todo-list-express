@@ -5,3 +5,7 @@ h1{
     color: gray;
     text-decoration: line-through;
 }
+html, body {
+    margin: 20px, auto !important;
+    padding: 20px;
+}
